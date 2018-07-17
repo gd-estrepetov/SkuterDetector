@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "blinkee.url.skuters",
+      "type": "java.lang.String",
+      "description": "URL for retrieving skuters for specific city"
+    }
+  ]
+}
